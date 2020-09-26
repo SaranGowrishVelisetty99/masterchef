@@ -22,7 +22,7 @@ Cream Cheese Frosting
 1 and 1/2 teaspoons pure vanilla extract
 pinch of salt, to taste
 
-#Instructions
+##Instructions
 
 Preheat oven to 350°F (177°C). Grease two 9-inch cake pans, line with parchment paper, then grease the parchment paper. Parchment paper helps the cakes seamlessly release from the pans.
 Make the cake: Whisk the flour, baking soda, cocoa powder, and salt together in a large bowl. Set aside.
